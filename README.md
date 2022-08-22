@@ -1,2 +1,2 @@
 # Data Project
-Endpoints for various data to be called programmatically
+Endpoints for various data to be fetched programmatically
