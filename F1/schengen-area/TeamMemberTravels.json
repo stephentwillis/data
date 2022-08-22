@@ -1,0 +1,345 @@
+[
+    {
+        "name": "Shauna",
+        "surname": "Stocks",
+        "role": "garage",
+        "nationality": "Germany",
+        "email": "sstocks@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "nalderman@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "name": "Glady",
+        "surname": "Powell",
+        "role": "garage",
+        "nationality": "UK",
+        "email": "gpowell@mercedesamgf1.com",
+        "isSchengen": true,
+        "travel":
+        [
+            {
+                "id": 0,
+                "startdate": "07/06/2021",
+                "enddate": "19/06/2021",
+                "destination": "France",
+                "totaldays": 12,
+                "isschengen": true,
+                "dates":
+                [
+                    "2021-06-07",
+                    "2021-06-08",
+                    "2021-06-09",
+                    "2021-06-10",
+                    "2021-06-11",
+                    "2021-06-12",
+                    "2021-06-13",
+                    "2021-06-14",
+                    "2021-06-15",
+                    "2021-06-16",
+                    "2021-06-17",
+                    "2021-06-18"
+                ]
+            },
+            {
+                "id": 1,
+                "startdate": "19/07/2021",
+                "enddate": "24/07/2021",
+                "destination": "Portugal",
+                "totaldays": 5,
+                "isschengen": true,
+                "dates":
+                [
+                    "2021-07-19",
+                    "2021-07-20",
+                    "2021-07-21",
+                    "2021-07-22",
+                    "2021-07-23"
+                ]
+            },
+            {
+                "id": 2,
+                "startdate": "09/08/2021",
+                "enddate": "14/08/2021",
+                "destination": "Afghanistan",
+                "totaldays": 5,
+                "isschengen": false,
+                "dates":
+                [
+                    "2021-08-09",
+                    "2021-08-10",
+                    "2021-08-11",
+                    "2021-08-12",
+                    "2021-08-13"
+                ]
+            },
+            {
+                "id": 3,
+                "startdate": "18/10/2021",
+                "enddate": "30/10/2021",
+                "destination": "Belgium",
+                "totaldays": 12,
+                "isschengen": true,
+                "dates":
+                [
+                    "2021-10-18",
+                    "2021-10-19",
+                    "2021-10-20",
+                    "2021-10-21",
+                    "2021-10-22",
+                    "2021-10-23",
+                    "2021-10-24",
+                    "2021-10-25",
+                    "2021-10-26",
+                    "2021-10-27",
+                    "2021-10-28",
+                    "2021-10-29"
+                ]
+            }
+        ]
+    },
+    {
+        "email": "kparra@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "mfranzone@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "chare@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "gbounds@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "rvicks@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "sbatts@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "mchand@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "name": "Clarine",
+        "surname": "Frenzel",
+        "role": "engineer",
+        "nationality": "UK",
+        "email": "cfrenzel@mercedesamgf1.com",
+        "isSchengen": true,
+        "travel":
+        []
+    },
+    {
+        "email": "cmariano@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "dhamlet@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "lsindelar@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "msabbagh@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "malcaraz@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "msoileau@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "iadcock@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "dcarlin@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "mslee@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "ehovis@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "jscarpelli@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "aparrinello@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "mfarver@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "ggarceau@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "dspero@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "lsapienza@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "ksala@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "ckohen@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "sdegennaro@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "gbiddle@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "jreyer@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "wfaler@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "jreams@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "hseiler@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "ewyckoff@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "mcritchlow@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "lrascon@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "jburciaga@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "sallan@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "rpresswood@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "ssegers@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "asoltys@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "cohlinger@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "lwestcott@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "lstucker@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "jboling@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "rbourbon@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "ccapel@mercedesamgf1.com",
+        "travel":
+        []
+    },
+    {
+        "email": "vearnest@mercedesamgf1.com",
+        "travel":
+        []
+    }
+]
