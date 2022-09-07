@@ -1,36 +1,34 @@
-{
-    "portfolio": [
-        {
-            "name": "Activision Blizzard",
-            "symbol": "ATVI"
-        },
-        {
-            "name": "Chevron",
-            "symbol": "CVX"
-        },
-        {
-            "name": "Cisco",
-            "symbol": "CSCO"
-        },
-        {
-            "name": "Coca-Cola",
-            "symbol": "KO"
-        },
-        {
-            "name": "Intel",
-            "symbol": "INTC"
-        },
-        {
-            "name": "Kraft-Heinz",
-            "symbol": "KHC"
-        },
-        {
-            "name": "Occidental",
-            "symbol": "OXY"
-        },
-        {
-            "name": "Paypal",
-            "symbol": "PYPL"
-        }
-    ]
-}
+[
+    {
+        "name": "Activision Blizzard",
+        "symbol": "ATVI"
+    },
+    {
+        "name": "Chevron",
+        "symbol": "CVX"
+    },
+    {
+        "name": "Cisco",
+        "symbol": "CSCO"
+    },
+    {
+        "name": "Coca-Cola",
+        "symbol": "KO"
+    },
+    {
+        "name": "Intel",
+        "symbol": "INTC"
+    },
+    {
+        "name": "Kraft-Heinz",
+        "symbol": "KHC"
+    },
+    {
+        "name": "Occidental",
+        "symbol": "OXY"
+    },
+    {
+        "name": "Paypal",
+        "symbol": "PYPL"
+    }
+]
