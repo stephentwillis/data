@@ -51,13 +51,30 @@
     },
     {
         "CombineRoles": false,
-        "Description": "",
+        "Description": "<article class=\"col\">Facilitation, coordination and development of multimedia and e-learning resources throughout the school. Design and development, updating and maintaining the school's website and web-presence as the school's Webmaster. Providing technical support, guidance and training, throughout the school.</article>",
+        "Logo": "https://media-exp1.licdn.com/dms/image/C510BAQFVNmLiKVbsOQ/company-logo_200_200/0?e=2159024400&v=beta&t=m1Q8ukd4q6hcYaosSUuVcHO4OEeCcNUynPDOcmQjdF0",
+        "Name": "Derbyshire County Council",
+        "Overview": "",
+        "Roles": [
+            {
+                "Description": "",
+                "From": "Sep 2006",
+                "JobTitle": "Multimedia Coordinator",
+                "To": "Sep 2011"
+            }
+        ],
+        "Url": "https://www.derbyshire.gov.uk"
+    },
+    
+    {
+        "CombineRoles": false,
+        "Description": "<article class=\"col\">Provided consultancy and support across a broad spectrum of media. Including website design and development (www.ferndaledental.co.uk), management and administration. Live sound engineering, live production lighting, live video recording, studio recording and production.</article>",
         "Logo": "",
         "Name": "Freelance",
         "Overview": "",
         "Roles": [
             {
-                "Description": "<article class=\"col\">Provided consultancy and support across a broad spectrum of media. Including website design and development (www.ferndaledental.co.uk), management and administration. Live sound engineering, live production lighting, live video recording, studio recording and production.</article>",
+                "Description": "",
                 "From": "Jun 2005",
                 "JobTitle": "Multimedia Consultant",
                 "To": "Apr 2019"
@@ -65,20 +82,4 @@
         ],
         "Url": ""
     },
-    {
-        "CombineRoles": false,
-        "Description": "",
-        "Logo": "https://media-exp1.licdn.com/dms/image/C510BAQFVNmLiKVbsOQ/company-logo_200_200/0?e=2159024400&v=beta&t=m1Q8ukd4q6hcYaosSUuVcHO4OEeCcNUynPDOcmQjdF0",
-        "Name": "Derbyshire County Council",
-        "Overview": "",
-        "Roles": [
-            {
-                "Description": "<article class=\"col\">Facilitation, coordination and development of multimedia and e-learning resources throughout the school. Design and development, updating and maintaining the school's website and web-presence as the school's Webmaster. Providing technical support, guidance and training, throughout the school.</article>",
-                "From": "Sep 2006",
-                "JobTitle": "Multimedia Coordinator",
-                "To": "Sep 2011"
-            }
-        ],
-        "Url": "https://www.derbyshire.gov.uk"
-    }   
 ]
